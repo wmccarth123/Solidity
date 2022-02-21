@@ -104,6 +104,6 @@ and 10 ether into `accountTwo`.
 
 After each transaction, use the `contractBalance` function to verify that the funds were withdrawn from your contract. Also, use the `lastToWithdraw` and `lastWithdrawAmount` functions to verify that the address and amount were correct.
 
-![Screenshot7](10_ether_into_accountTwo.jpeg)
+![Screenshot7](lastToWithdraw_and_lastWithdrawAmount.jpeg)
 
 
