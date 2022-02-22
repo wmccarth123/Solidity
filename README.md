@@ -2,7 +2,7 @@
 
 ### NOTE FOR GRADING.
 
-The connection between my github and local computer was interupted due to a software upgrade. Thus, I was unable clone my repo in ordfer to upload files for this assigment from my terminal. Thank you in advance for condisdering my circumstances during grade.
+The connection between my github and local computer was interupted due to a software upgrade. Thus, I was unable clone my repo in order to upload files for this assigment from my terminal. Thank you in advance for condisdering my circumstances during grade.
 
 ### Background
 
